@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038324620343",
+    "project_id": "firesqlmycontectbook",
+    "storage_bucket": "firesqlmycontectbook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038324620343:android:e7ab79aafaea0d3140f3b2",
+        "android_client_info": {
+          "package_name": "com.example.fire_sql_mycontectbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038324620343-bmv1fb33ftpf3ivquk1kfnk97iqc72d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfq1oaObtHkKK6ZouasY7JSs7RUJn1kiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038324620343-bmv1fb33ftpf3ivquk1kfnk97iqc72d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
